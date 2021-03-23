@@ -1,0 +1,12 @@
+Jacob Voyles
+HW10: Life - Controller
+
+1. I implemented the timer last part, so adjusting the start and stop buttons wasn't to hard, figuring out a way to add
+    in a custom board turned out to be the most difficult part of this assignment.
+
+2. The most important thing I learned from this assignment was how to use a timer for different animations, inbetween
+    larger computations.
+
+3. Next time I would change how I implemented my grid to be able to add in the drag to select feature.
+
+4. The biggest change I made was to implement the animations and color changes and the custom grid.
